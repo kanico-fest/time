@@ -46,7 +46,7 @@ content: counter(list) ") ";}
 
 
 
-.main{min-width:990px;/*padding-bottom:700px;*/}
+.main{min-width:990px; padding-bottom:10px;}
 
 
 .inputText>i{display:block;border:1px solid #d0d0d0;zoom:1;padding:0px 12px;font-style:normal;overflow:hidden;
@@ -169,6 +169,10 @@ background:#f7f7f7 url(../images/main_bg.jpg) 0 0 repeat;padding:0 6px;font-size
 .foot>.in{max-width:980px;margin:0 auto;}
 .head>.Back .Arrs>.in{max-width:1200px;}
 
+.body {
+	padding-bottom: 150px;
+}
+
 
 header {
 	text-align: center;
@@ -230,8 +234,8 @@ header {
 .L {
 	padding-top: 15px;
 	}
-				
-/*.head>.Front>.in{position:relative;zoom:1;padding:0 30px;}
+/*				
+.head>.Front>.in{position:relative;zoom:1;padding:0 30px;}
 .head>.Front>.in:after{content:' ';clear:both;display:block;width:0;height:0;overflow:hidden;font-size:0;}
 .head>.Front .Logo{padding: 10px 0 0;}
 .head>.Front .Menu{margin-top: 15px;}
@@ -277,9 +281,9 @@ position:absolute;top:0px;right:-7px;bottom:0px;left:0px;}
 .head>.Front .Menu .e>.after ul{list-style:none;padding:0 1px;font-size:12px;}
 .head>.Front .Menu .e>.after ul>li{white-space:nowrap;}
 */
-/* Footer
+
 .foot{background:#242424;position:absolute;left:0;right:0;bottom:0;min-width:990px;}
-.foot>.in{padding:35px 30px 32px;}
+.foot>.in{padding:15px 30px 12px;}
 .foot>.in>.B{margin-top:35px;border-top:1px solid #141414;}
 .foot>.in>.B>.in{padding-top:30px;border-top:1px solid #3b3b3b;zoom:1;}
 .foot>.in>.B>.in:after{content:' ';clear:both;display:block;width:0;height:0;overflow:hidden;font-size:0;}
@@ -311,7 +315,7 @@ font-family:'Trebuchet MS',arial,sans-serif;font-weight:bold;text-shadow:0 -1px 
 .foot .Menu a:link,
 .foot .Menu a:visited{color:#fff;text-decoration:none;border-bottom:1px solid #fff;}
 .foot .Menu a:hover{color:#fff;border-bottom-color:transparent;}
-*/
+
 /*
 .head .nivoSlider{width:1408px;position:relative;height: 639px;overflow:hidden;margin:0 auto;z-index:0;}
 .nivoSlider img{display:block;position:absolute;top:0px;left:0px;max-width:none;}
@@ -445,12 +449,6 @@ cursor:pointer;z-index:4;}
 .block{text-align:left;}
 .block h3{padding:10px 0 5px;color:#010101;font-size:20px;}
 */
-
-.text {
-    margin-left: auto;
-    margin-right: auto;
-    text-align: center;
-}
 
 
 
