@@ -72,3 +72,11 @@ table {
     font: 20px/24px Helvetica;
     text-align: center;
 }
+
+#myVideo {
+   
+    right: 0;
+    bottom: 0;
+    width: 1060;
+    height: 425px;
+}
