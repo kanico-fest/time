@@ -128,14 +128,7 @@ src: url("Charming.otf") format("opentype");}
   color: #ffffff;
   filter:opacity(100%);}
 
-/*.container .btn:hover {
- background-color: rgba(255,255,255);}*/
-/*.container .btn:hover span{
-	color: #2b2c2e;}*/
-
-.ticket:hover {
-	background-color: rgba(255,255,255);
-	color: #2b2c2e;
-}
-.ticket:hover span{
-color: #2b2c2e;}
+.container .btn:hover {
+ background-color: rgba(255,255,255);}
+.container .btn:hover span{
+	color: #2b2c2e;}
